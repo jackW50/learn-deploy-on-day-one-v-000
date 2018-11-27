@@ -1,7 +1,7 @@
 /* GLOBAL STYLES
 ======================== */
-/* https://imgur.com/h3Me3kf  background photo */
-/* https://imgur.com/nb5rHmL  profile photo */
+ https://imgur.com/h3Me3kf  background photo */
+ https://imgur.com/nb5rHmL  profile photo */
 
 *, *:before, *:after {
   box-sizing: border-box;
@@ -164,6 +164,11 @@ a:visited {
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
+
+#john-werenski-cover {
+  background-image: url("");
+}
+
 
 .view-profile-div {
   position: absolute;
